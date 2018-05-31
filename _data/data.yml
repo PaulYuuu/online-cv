@@ -4,13 +4,13 @@
 
 sidebar:
     # Site Settings
-    title: 余益煌的简历
+    title: "余益煌的简历"
     url: 'https://cv.ananasyu.top/'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: 余益煌
-    tagline: 云计算测试工程师
+    name: "余益煌"
+    tagline: "云计算测试工程师"
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -49,19 +49,19 @@ sidebar:
 
 
 career-profile: 
-    title: 个人简介
-    text: '　　工作责任心强，性格较为沉稳。拥有扎实的计算机基础，一直保持着热诚好学的心，热衷于探索学习前沿技术并尝试运用到工作中。自工作以来，工作积极主动，待人和善，得到同事及领导的认可，擅于总结工作经验并尝试创新。主动接受新事物，吃苦耐劳，敢于接受新的挑战。'
+    title: "个人简介"
+    text: "　　工作责任心强，性格较为沉稳。拥有扎实的计算机基础，一直保持着热诚好学的心，热衷于探索学习前沿技术并尝试运用到工作中。自工作以来，工作积极主动，待人和善，得到同事及领导的认可，擅于总结工作经验并尝试创新。主动接受新事物，吃苦耐劳，敢于接受新的挑战。"
 
 
 studies: 
     - education:
-      degree: 电子信息科学与技术 - 学士
-      university: 广东韶关学院
+      degree: "电子信息科学与技术 - 学士"
+      university: "广东韶关学院"
       time: 2012 - 2016
       details: "主修课程：电子电路基础 信号与系统 数字信号处理 C语言 数据结构"
 
 projects:
-    title: 项目经历
+    title: "项目经历"
     #intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
       #sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
@@ -87,11 +87,11 @@ publications:
       - paper:
         title: "维尚家具制造有限公司 - 网络管理员"
         conference: "2016.03 - 2017.06"
-        authors: "　　负责公司网络与PC设备等弱电的维护管理，管理尚品宅配培训学院，将原先学院服务器利用Citrix虚拟化，同时使用ESXi搭建虚拟化平台，部署zabbix对公司服务器、交换路由以及订单系统进行监控。"’
+        authors: "　　负责公司网络与PC设备等弱电的维护管理，管理尚品宅配培训学院，将原先学院服务器利用Citrix虚拟化，同时使用ESXi搭建虚拟化平台，部署zabbix对公司服务器、交换路由以及订单系统进行监控。"
       - paper:
         title: "广州优亿信息科技有限公司 - 虚拟化测试工程师"
         conference: "2016.03 - 2017.06"
-        authors: "　　外派至广州电信研究院云计算研究所工作。主要参与对NFVI三层解耦中IaaS的统筹架构、资源调配与部署测试。测试包括功能、性能以及可靠性测试。并参与过多次集采测试，对国内几家公司的云产品有较深的认识。基于OpenStack的Tempest及Rally搭建测试平台，提高测试效率，减少人工操作误差。“”
+        authors: "　　外派至广州电信研究院云计算研究所工作。主要参与对NFVI三层解耦中IaaS的统筹架构、资源调配与部署测试。测试包括功能、性能以及可靠性测试。并参与过多次集采测试，对国内几家公司的云产品有较深的认识。基于OpenStack的Tempest及Rally搭建测试平台，提高测试效率，减少人工操作误差。"
 
 skills:
     title: Skills &amp; Proficiency
