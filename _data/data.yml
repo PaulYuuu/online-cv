@@ -69,11 +69,11 @@ projects:
       - project:
         title: NFVI三层解耦测试 （2017.06 - 至今）
         link: "#hook"
-        tagline: "使用测试工具及编写测试脚本进行功能以及可靠性的测试，并使用思博伦仪表，结合dpdk套件，定制脚本进行网络性能测试和梳理。除此之外，对VIM层与业务层的对接及出现的问题作出判断及定位，协助解决问题。"
+        tagline: "使用测试工具及编写测试脚本进行功能及可靠性测试，并使用思博伦仪表，结合dpdk，编写脚本进行网络性能测试。除此之外，对VIM与业务层的对接及出现的问题作出判断及定位，协助解决问题。 "
       - project:
         title: OpenStack自动化测试平台 （2018.02 - 至今）
         link: "#"
-        tagline: "选取OpenStack的Tempest和Rally，运用容器部署自动化测试平台，由Jenkins去触发执行Tempest，以及所编写的遍历Rally测试用例的shell脚本进行自动测试，并将结果分类保存在宿主机便于检查。"
+        tagline: "选取OpenStack的Tempest和Rally，运用容器部署自动化测试平台，由Jenkins去触发执行Tempest，以及所编写的遍历Rally测试用例的shell脚本进行自动测试，并将结果分类保存在宿主机。"
       - project:
         title: Kolla部署OpenStack
         link: "#"
@@ -87,7 +87,7 @@ publications:
       - paper:
         title: "维尚家具制造有限公司 - 网络管理员"
         conference: "2016.03 - 2017.06"
-        authors: "　　负责公司网络与PC设备等弱电的维护管理，管理尚品宅配培训学院，将原先学院服务器利用Citrix平台虚拟化，同时使用ESXi搭建虚拟化平台，部署zabbix虚拟机对公司服务器、交换路由以及订单系统网页进行监控。"’
+        authors: "　　负责公司网络与PC设备等弱电的维护管理，管理尚品宅配培训学院，将原先学院服务器利用Citrix虚拟化，同时使用ESXi搭建虚拟化平台，部署zabbix对公司服务器、交换路由以及订单系统进行监控。"’
       - paper:
         title: "广州优亿信息科技有限公司 - 虚拟化测试工程师"
         conference: "2016.03 - 2017.06"
