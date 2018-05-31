@@ -55,11 +55,12 @@ career-profile:
 
 studies: 
     title: "教育经历"
-    - education:
-      degree: "电子信息科学与技术 - 学士"
-      university: "广东韶关学院"
-      time: 2012 - 2016
-      details: "主修课程：电子电路基础 信号与系统 数字信号处理 C语言 数据结构"
+    studies:
+      - education:
+        degree: "电子信息科学与技术 - 学士"
+        university: "广东韶关学院"
+        time: 2012 - 2016
+        details: "主修课程：电子电路基础 信号与系统 数字信号处理 C语言 数据结构"
 
 projects:
     title: "项目经历"
