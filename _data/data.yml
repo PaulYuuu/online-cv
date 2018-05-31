@@ -34,13 +34,13 @@ sidebar:
         
     interests:
         - interest:
-          item: Climbing
+          item: "唱歌"
           link:
         - interest:
-          item: Snowboarding
+          item: "轮滑"
           link:
         - interest:
-          item: Cooking
+          item: "数码"
           link:
 
         
@@ -87,11 +87,11 @@ publications:
       - paper:
         title: "维尚家具制造有限公司 - 网络管理员"
         conference: "2016.03 - 2017.06"
-        authors: "　　负责公司网络与PC设备等弱电的维护管理，管理尚品宅配培训学院，将原先学院服务器利用Citrix虚拟化，同时使用ESXi搭建虚拟化平台，部署zabbix对公司服务器、交换路由以及订单系统进行监控。"
+        responsibility: "　　负责公司网络与PC设备等弱电的维护管理，管理尚品宅配培训学院，将原先学院服务器利用Citrix虚拟化，同时使用ESXi搭建虚拟化平台，部署zabbix对公司服务器、交换路由以及订单系统进行监控。"
       - paper:
         title: "广州优亿信息科技有限公司 - 虚拟化测试工程师"
         conference: "2016.03 - 2017.06"
-        authors: "　　外派至广州电信研究院云计算研究所工作。主要参与对NFVI三层解耦中IaaS的统筹架构、资源调配与部署测试。测试包括功能、性能以及可靠性测试。并参与过多次集采测试，对国内几家公司的云产品有较深的认识。基于OpenStack的Tempest及Rally搭建测试平台，提高测试效率，减少人工操作误差。"
+        responsibility: "　　外派至广州电信研究院云计算研究所工作。主要参与对NFVI三层解耦中IaaS的统筹架构、资源调配与部署测试。测试包括功能、性能以及可靠性测试。并参与过多次集采测试，对国内几家公司的云产品有较深的认识。基于OpenStack的Tempest及Rally搭建测试平台，提高测试效率，减少人工操作误差。"
 
 skills:
     title: "擅长技能"
