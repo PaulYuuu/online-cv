@@ -23,14 +23,17 @@ sidebar:
 
     languages:
         - language:
-          idiom: English
-          level: Native
+          idiom: 军训积极分子
+          level: 在校
         - language:
-          idiom: French
-          level: Professional
+          idiom: 优秀网络管理员
+          level: 在校
         - language:
-          idiom: Spanish
-          level: Professional
+          idiom: 电子技能大赛三等奖
+          level: 在校
+        - language:
+          idiom: 突出贡献奖
+          level: 工作
         
     interests:
         - interest:
@@ -69,15 +72,15 @@ projects:
       - project:
         title: "NFVI三层解耦测试 （2017.06 - 至今）"
         link: "#hook"
-        tagline: " 使用测试工具及编写测试脚本进行功能及可靠性测试，并使用思博伦仪表，结合dpdk，编写脚本进行网络性能测试。除此之外，对VIM与业务层的对接及出现的问题作出判断及定位，协助解决问题。 "
+        tagline: "使用测试工具及编写测试脚本进行功能及可靠性测试，并使用思博伦仪表，结合dpdk，编写脚本进行网络性能测试。除此之外，对VIM与业务层的对接及出现的问题作出判断及定位，协助解决问题。 "
       - project:
         title: "OpenStack自动化测试平台 （2018.02 - 至今）"
         link: "#"
-        tagline: " 选取OpenStack的Tempest和Rally，运用容器部署自动化测试平台，由Jenkins去触发执行Tempest，以及所编写的遍历Rally测试用例的shell脚本进行自动测试，并将结果分类保存在宿主机。"
+        tagline: "选取OpenStack的Tempest和Rally，运用容器部署自动化测试平台，由Jenkins去触发执行Tempest，以及所编写的遍历Rally测试用例的shell脚本进行自动测试，并将结果分类保存在宿主机。"
       - project:
         title: "Kolla部署OpenStack （2017.11 - 2018.02）"
         link: "#"
-        tagline: " 参考陈沙克老师的ocata版本kolla iso进行修改完善，自行封装了一个pike版本的iso，使安装完成后拥有kolla及docker本地仓库的系统环境，能快速部署集成ceph的openstack，并用grafana对接zabbix进行监控，方便搭建测试及开发环境。"
+        tagline: "参考陈沙克老师的ocata版本kolla iso进行修改完善，自行封装了一个pike版本的iso，使安装完成后拥有kolla及docker本地仓库的系统环境，能快速部署集成ceph的openstack，并用grafana对接zabbix进行监控，方便搭建测试及开发环境。"
 
 publications:
     title: "工作经历"
@@ -85,7 +88,7 @@ publications:
     
     publications:
       - paper:
-        title: "维尚家具制造有限公司 - 网络管理员"
+        title: "佛山维尚家具制造有限公司 - 网络管理员"
         conference: "2016.03 - 2017.06"
         authors: "　　负责公司网络与PC设备等弱电的维护管理，管理尚品宅配培训学院，将原先学院服务器利用Citrix虚拟化，同时使用ESXi搭建虚拟化平台，部署zabbix对公司服务器、交换路由以及订单系统进行监控。"
       - paper:
